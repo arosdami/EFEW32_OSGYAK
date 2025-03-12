@@ -1,0 +1,11 @@
+Aros
+content.txt
+Damján
+dir_1
+dir_2
+dir_3
+echo
+EFEW32
+lecke6
+www.txt
+xyz.txt
